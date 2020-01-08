@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Changes directly from GIThub")
+        print("This is from xcode")
         // Do any additional setup after loading the view.
     }
 
