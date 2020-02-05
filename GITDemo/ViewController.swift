@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("This is from xcode")
+        print("This is from xcode 11")
         // Do any additional setup after loading the view.
     }
 
